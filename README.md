@@ -1,0 +1,2 @@
+# PHPSentenceTrimmer
+Trims a sentence
